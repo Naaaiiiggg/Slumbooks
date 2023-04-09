@@ -1,0 +1,87 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	 background-color: #56565;
+	background-image: radial-gradient(#c7c7c7 25%, #c7c7c7 74%) 	;
+	height: 100vh;
+	font-family: system-ui;
+
+}
+.clearfix{
+	clear: both;
+}
+.main{
+	height: 1150px;
+	width: 800px;
+	background-color: white;
+	box-shadow: 5px 7px 15px 5px #c7c7c7; 
+	margin: 20px auto;
+
+}
+
+.top-section{
+	background-color:#144256;
+	text-align: center;
+	padding: 20px;
+}
+.profile{
+	width: 150px;
+	border-radius: 50%;
+}
+.p1{
+	color: white;
+	font-size: 40px;
+	font-weight: bold;
+	margin: 0px;
+	margin-top: 10px;
+}
+.p1 span{
+	font-weight: 100;
+	color: #c7c7c7;
+}
+.p2{
+	font-family: 'Allura', cursive;;
+	font-size: 20px;
+	color: #c7c7c7;
+	margin: 0px;
+	margin-top: 10px;
+}
+
+a {
+  text-decoration: none;
+  display: inline-block;
+  padding: 8px 16px;
+   float: center;
+}
+.next {
+  background-color: #144256;
+  color: white;
+}
+
+.round {
+  border-radius: 50%;
+} 
+
+
+.p3 {
+	font-family: "Bookman Old Style", Georgia, serif;
+	font-weight: light;
+    margin: 20px auto;
+    max-width: 700px;
+    font-size: 20px; 
+}
+
+.hr {
+ border: 0;
+ height: 0;
+ border-top: 1px solid #fff;
+ border-bottom: 1px solid #fff;
+}
+
+.Heading {
+    font-family: "Bookman Old Style", Georgia, serif;
+    font-weight: light;
+    margin: 20px auto;
+    max-width: 700px;
+    font-size: 20px; 
+}
